@@ -1,0 +1,567 @@
+{
+  "processing_summary": {
+    "total_messages": 136,
+    "successful_messages": 110,
+    "error_messages": 26,
+    "success_rate": "80.88%",
+    "report_generated": "2024-11-30 17:16:30 UTC",
+    "generated_by": "bautista"
+  },
+  "token_mismatch_errors": [
+    {
+      "date": "11/11/2024",
+      "time": "15:51",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "**- **Bitcoin (BTC):** Long, Leverage x20- **Ethereum (ETH):** Long, Leverage x20- **TON (TONUSDT):** Long, Leverage x10- **FTM (FTMUSDT):** Short, Leverage x10- **STX (STXUSDT):** Short, Leverage x10- **TRX (TRXUSDT):** Short, Leverage x10⚠️ **",
+      "expected_tokens": [
+        "BTC",
+        "ETH",
+        "FTM",
+        "STX",
+        "TON",
+        "TRX"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "12/11/2024",
+      "time": "05:31",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "**  - **BTCUSDT - Long, Leverage: x20**  - **ETHUSDT - Long, Leverage: x20**  - **SOLUSDT - Long, Leverage: x15**  - **ADAUSDT - Short, Leverage: x10**  - **ICPUSDT - Short, Leverage: x10**  - **UNIUSDT - Short, Leverage: x10**  ⚠️ **",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "ETH",
+        "ICP",
+        "SOL",
+        "UNI"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "13/11/2024",
+      "time": "08:31",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "**- **Long Bitcoin (BTC)** — Leverage x20  - **Long Ethereum (ETH)** — Leverage x20  - **Long Ripple (XRP)** — Leverage x15  - **Short Sui (SUI)** — Leverage x10  - **Short Toncoin (TON)** — Leverage x10  - **Short Cardano (ADA)** — Leverage x10  ---⚠️ **",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "ETH",
+        "SUI",
+        "TON",
+        "XRP"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "13/11/2024",
+      "time": "11:31",
+      "expected_count": 6,
+      "found_count": 2,
+      "trade_section": "**- **Long:** ADA (x10), SOL (x15), BTC (x20)  - **Short:** TRX (x10), DOGE (x10), GRT (x10)  ⚠️ **",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "DOGE",
+        "GRT",
+        "SOL",
+        "TRX"
+      ],
+      "found_tokens": [
+        "ADA",
+        "TRX"
+      ],
+      "signals": [
+        "ADA:LONG:10",
+        "TRX:SHORT:10"
+      ],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "14/11/2024",
+      "time": "05:31",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "**- **Bitcoin (BTC)**: Long, Leverage x20  - **Ethereum (ETH)**: Short, Leverage x20  - **Ripple (XRP)**: Long, Leverage x15  - **Binance Coin (BNB)**: Short, Leverage x10  - **Solana (SOL)**: Long, Leverage x15  - **Litecoin (LTC)**: Short, Leverage x10⚠️ **",
+      "expected_tokens": [
+        "BNB",
+        "BTC",
+        "ETH",
+        "LTC",
+        "SOL",
+        "XRP"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "16/11/2024",
+      "time": "17:31",
+      "expected_count": 6,
+      "found_count": 4,
+      "trade_section": "- Long Bitcoin (BTC) - Leverage x20- Long Ethereum (ETH) - Leverage x20- Long Binance Coin (BNB) - Leverage x15- Short Dogecoin (DOGE) - Leverage x10- Short Shiba Inu (SHIB) - Leverage x10- Short Litecoin (LTC) - Leverage x10⚠️",
+      "expected_tokens": [
+        "1000SHIB",
+        "BNB",
+        "BTC",
+        "DOGE",
+        "ETH",
+        "LTC"
+      ],
+      "found_tokens": [
+        "BTC",
+        "DOGE",
+        "ETH",
+        "LTC"
+      ],
+      "signals": [
+        "BTC:LONG:20",
+        "ETH:LONG:20",
+        "DOGE:SHORT:10",
+        "LTC:SHORT:10"
+      ],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "16/11/2024",
+      "time": "20:31",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "- Long Bitcoin (BTC): Leverage x20- Long Ethereum (ETH): Leverage x20- Long Ripple (XRP): Leverage x10- Short TON (TONUSDT): Leverage x10- Short TRON (TRXUSDT): Leverage x15- Short Cardano (ADAUSDT): Leverage x10⚠️",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "ETH",
+        "TON",
+        "TRX",
+        "XRP"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "16/11/2024",
+      "time": "23:31",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "**- **Long Trades**:  - ETH (Long) - Leverage x20  - ADA (Long) - Leverage x10  - ICP (Long) - Leverage x15- **Short Trades**:  - XRP (Short) - Leverage x10  - UNI (Short) - Leverage x10  - GRT (Short) - Leverage x10⚠️ **",
+      "expected_tokens": [
+        "ADA",
+        "ETH",
+        "GRT",
+        "ICP",
+        "UNI",
+        "XRP"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "18/11/2024",
+      "time": "23:31",
+      "expected_count": 6,
+      "found_count": 4,
+      "trade_section": "- Long Bitcoin (BTCUSDT) x20- Short Graph Token (GRTUSDT) x10- Long Toncoin (TONUSDT) x15- Short Internet Computer (ICPUSDT) x10- Long Cardano (ADAUSDT) x15- Short Litecoin (LTCUSDT) x10⚠️",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "GRT",
+        "ICP",
+        "LTC",
+        "TON"
+      ],
+      "found_tokens": [
+        "ADA",
+        "BTC",
+        "LTC",
+        "TON"
+      ],
+      "signals": [
+        "BTC:LONG:20",
+        "TON:LONG:15",
+        "ADA:LONG:15",
+        "LTC:SHORT:10"
+      ],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "19/11/2024",
+      "time": "08:31",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "**- BTCUSDT: Long, Leverage x20- ETHUSDT: Short, Leverage x20- GRTUSDT: Long, Leverage x10- ADAUSDT: Short, Leverage x15- UNIUSDT: Long, Leverage x10- AVAXUSDT: Short, Leverage x15⚠️ **",
+      "expected_tokens": [
+        "ADA",
+        "AVAX",
+        "BTC",
+        "ETH",
+        "GRT",
+        "UNI"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "19/11/2024",
+      "time": "11:31",
+      "expected_count": 5,
+      "found_count": 0,
+      "trade_section": "**- **Long**:   1. BTC - x20 Leverage    2. ETH - x20 Leverage    3. LINK - x15 Leverage  - **Short**:   1. TON - x10 Leverage    2. TRX - x10 Leverage    3. ICP - x10 Leverage  ⚠️ **",
+      "expected_tokens": [
+        "BTC",
+        "ETH",
+        "ICP",
+        "TON",
+        "TRX"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "19/11/2024",
+      "time": "14:31",
+      "expected_count": 5,
+      "found_count": 0,
+      "trade_section": "**1. BTC - Long, Leverage x202. ETH - Long, Leverage x203. DOGE - Long, Leverage x104. GRT - Short, Leverage x105. ADA - Short, Leverage x106. LINK - Short, Leverage x10⚠️ **",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "DOGE",
+        "ETH",
+        "GRT"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "20/11/2024",
+      "time": "11:31",
+      "expected_count": 5,
+      "found_count": 0,
+      "trade_section": "**1. BTC - Long, Leverage: x202. XRP - Long, Leverage: x153. DOGE - Long, Leverage: x104. LINK - Short, Leverage: x105. AVAX - Short, Leverage: x156. UNI - Short, Leverage: x10⚠️ **",
+      "expected_tokens": [
+        "AVAX",
+        "BTC",
+        "DOGE",
+        "UNI",
+        "XRP"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "21/11/2024",
+      "time": "07:10",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "Long:1. BTC - Leverage x202. ETH - Leverage x203. ADA - Leverage x10Short:1. SUI - Leverage x102. ICP - Leverage x153. STX - Leverage x10⚠️",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "ETH",
+        "ICP",
+        "STX",
+        "SUI"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "22/11/2024",
+      "time": "07:10",
+      "expected_count": 6,
+      "found_count": 2,
+      "trade_section": "**- **Long**: BNB x15, XRP x15, TRX x10- **Short**: SHIB x10, DOGE x10, SOL x10⚠️ **",
+      "expected_tokens": [
+        "1000SHIB",
+        "BNB",
+        "DOGE",
+        "SOL",
+        "TRX",
+        "XRP"
+      ],
+      "found_tokens": [
+        "1000SHIB",
+        "BNB"
+      ],
+      "signals": [
+        "BNB:LONG:15",
+        "1000SHIB:SHORT:10"
+      ],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "23/11/2024",
+      "time": "01:10",
+      "expected_count": 5,
+      "found_count": 0,
+      "trade_section": "- Long: DOGE, Leverage x10- Long: SOL, Leverage x10- Long: ETH, Leverage x20- Short: ADA, Leverage x10- Short: XRP, Leverage x10- Short: LINK, Leverage x15⚠️",
+      "expected_tokens": [
+        "ADA",
+        "DOGE",
+        "ETH",
+        "SOL",
+        "XRP"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "23/11/2024",
+      "time": "22:10",
+      "expected_count": 5,
+      "found_count": 0,
+      "trade_section": "1. BTC - Long, Leverage x202. ETH - Long, Leverage x203. SOL - Long, Leverage x154. ICP - Short, Leverage x105. LINK - Short, Leverage x106. BNB - Short, Leverage x15⚠️",
+      "expected_tokens": [
+        "BNB",
+        "BTC",
+        "ETH",
+        "ICP",
+        "SOL"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "25/11/2024",
+      "time": "07:10",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "- Bitcoin (BTC): Long, Leverage x20- Ethereum (ETH): Long, Leverage x20- ICP: Long, Leverage x15- AVAX: Short, Leverage x10- TAO: Short, Leverage x10- DOGE: Short, Leverage x10---⚠️",
+      "expected_tokens": [
+        "AVAX",
+        "BTC",
+        "DOGE",
+        "ETH",
+        "ICP",
+        "TAO"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "25/11/2024",
+      "time": "13:10",
+      "expected_count": 6,
+      "found_count": 2,
+      "trade_section": "- Long Trades: TAOUSDT (x10 leverage), ETHUSDT (x20 leverage), AVAXUSDT (x15 leverage)- Short Trades: SOLUSDT (x10 leverage), FTMUSDT (x10 leverage), XRPUSDT (x15 leverage)⚠️",
+      "expected_tokens": [
+        "AVAX",
+        "ETH",
+        "FTM",
+        "SOL",
+        "TAO",
+        "XRP"
+      ],
+      "found_tokens": [
+        "SOL",
+        "TAO"
+      ],
+      "signals": [
+        "TAO:LONG:10",
+        "SOL:SHORT:10"
+      ],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "25/11/2024",
+      "time": "16:10",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "- BTCUSDT: Short, Leverage x20 - ETHUSDT: Long, Leverage x20 - ADAUSDT: Long, Leverage x10 - FTMUSDT: Short, Leverage x10 - TONUSDT: Long, Leverage x10 - XRPUSDT: Short, Leverage x15 ⚠️",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "ETH",
+        "FTM",
+        "TON",
+        "XRP"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "26/11/2024",
+      "time": "01:10",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "**1. BTC - Long, Leverage x202. ETH - Short, Leverage x203. FTM - Long, Leverage x104. ADA - Short, Leverage x155. UNI - Long, Leverage x106. TRX - Short, Leverage x15⚠️ **",
+      "expected_tokens": [
+        "ADA",
+        "BTC",
+        "ETH",
+        "FTM",
+        "TRX",
+        "UNI"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "26/11/2024",
+      "time": "04:10",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "1. BTC - Long, Leverage x202. ETH - Long, Leverage x203. UNI - Long, Leverage x154. ICP - Short, Leverage x105. TON - Short, Leverage x106. TRX - Short, Leverage x10⚠️",
+      "expected_tokens": [
+        "BTC",
+        "ETH",
+        "ICP",
+        "TON",
+        "TRX",
+        "UNI"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "26/11/2024",
+      "time": "07:10",
+      "expected_count": 5,
+      "found_count": 0,
+      "trade_section": "Long Positions:1. GRT - Leverage x102. LINK - Leverage x153. ADA - Leverage x15Short Positions:1. SOL - Leverage x102. DOGE - Leverage x103. SHIB - Leverage x10⚠️",
+      "expected_tokens": [
+        "1000SHIB",
+        "ADA",
+        "DOGE",
+        "GRT",
+        "SOL"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "27/11/2024",
+      "time": "13:10",
+      "expected_count": 6,
+      "found_count": 0,
+      "trade_section": "- Long Trades:  - TONUSDT: x10 Leverage  - FTMUSDT: x15 Leverage  - BTCUSDT: x20 Leverage- Short Trades:  - ICPUSDT: x10 Leverage  - AVAXUSDT: x15 Leverage  - SOLUSDT: x10 Leverage---⚠️",
+      "expected_tokens": [
+        "AVAX",
+        "BTC",
+        "FTM",
+        "ICP",
+        "SOL",
+        "TON"
+      ],
+      "found_tokens": [],
+      "signals": [],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    },
+    {
+      "date": "28/11/2024",
+      "time": "05:32",
+      "expected_count": 6,
+      "found_count": 5,
+      "trade_section": "- Long Bitcoin (BTC) - Leverage x20- Long Ethereum (ETH) - Leverage x20- Long Binance Coin (BNB) - Leverage x15- Short Sui (SUI) - Leverage x10- Short Cardano (ADA) - Leverage x10- Short Dogecoin (DOGE) - Leverage x10⚠️",
+      "expected_tokens": [
+        "ADA",
+        "BNB",
+        "BTC",
+        "DOGE",
+        "ETH",
+        "SUI"
+      ],
+      "found_tokens": [
+        "ADA",
+        "BTC",
+        "DOGE",
+        "ETH",
+        "SUI"
+      ],
+      "signals": [
+        "BTC:LONG:20",
+        "ETH:LONG:20",
+        "SUI:SHORT:10",
+        "ADA:SHORT:10",
+        "DOGE:SHORT:10"
+      ],
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "token_count_mismatch",
+      "user": "bautista"
+    }
+  ],
+  "parsing_errors": [
+    {
+      "date": "11/11/2024",
+      "time": "16:25",
+      "error": "No trade section found",
+      "trade_section": null,
+      "error_timestamp": "2024-11-30 17:16:30 UTC",
+      "error_type": "parsing_error",
+      "user": "bautista"
+    }
+  ]
+}
