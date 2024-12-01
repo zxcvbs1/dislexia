@@ -1,0 +1,22 @@
+{
+  "processing_summary": {
+    "total_messages": 136,
+    "successful_messages": 135,
+    "error_messages": 1,
+    "success_rate": "99.26%",
+    "report_generated": "2024-11-30 18:09:20 UTC",
+    "generated_by": "bautista"
+  },
+  "token_mismatch_errors": [],
+  "parsing_errors": [
+    {
+      "date": "11/11/2024",
+      "time": "16:25",
+      "error": "No trade section found",
+      "trade_section": null,
+      "error_timestamp": "2024-11-30 18:09:20 UTC",
+      "error_type": "parsing_error",
+      "user": "bautista"
+    }
+  ]
+}

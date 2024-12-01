@@ -1,0 +1,16 @@
+{
+    "backtest_date": "2024-12-01 14:09:31.853546",
+    "initial_equity": 10000,
+    "final_equity": 16485.788594325088,
+    "total_return": 64.85788594325088,
+    "total_trades": 791,
+    "profitable_trades": 432,
+    "win_rate": 54.614412136536025,
+    "avg_pnl_amount": 8.199479891687846,
+    "avg_pnl_percentage": 3.702363778610032,
+    "max_drawdown": -7.334551250504931,
+    "sharpe_ratio": 11.261070160840424,
+    "monthly_returns": {
+        "2024-11": 64.85788594325086
+    }
+}
