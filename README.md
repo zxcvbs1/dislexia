@@ -1,1 +1,4 @@
 Backtesting de resultados de bot de seniales de Telegram. Usando IA para parsear datos en formato no estructurado.
+Analiza el historial de señales generadas por un bot en Telegram y evalua su efectividad. Estas señales no están organizadas en un formato estructurado con activos, precios de entrada, stop loss o take profit claramente definidos. En cambio, aparecen en mensajes dispersos, algunos con emojis, otros con advertencias vagas como “ojo con BTC” y, en ocasiones, con datos más precisos.
+
+Para convertir este caos en información útil, se implementará inteligencia artificial capaz de procesar el lenguaje natural, identificar patrones y extraer datos clave. Esto permite estructurar la información y realizar un análisis cuantitativo que determine si las señales realmente aportan valor o si carecen de utilidad.
